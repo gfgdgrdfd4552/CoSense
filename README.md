@@ -22,7 +22,7 @@
 
 ## 2. 数据采集与分析
 
-- **sim.py / simcurve.py / simmmmm.py / sime.py / simp.py / sim_6.py / sim_our.py / sim_test1.py / simtest2.py / simnewtest1.py / simnewtest2.py / simnewtest3.py / simnewtest4.py / simnewtest5.py**  
+- **sim.py / simcurve.py / simmmmm.py / sime.py / simp.py / sim_6.py / sim_our.py / sim_test1.py / simtest2.py / simnewtest1.py / simnewtest2.py / simnewtest3.py / simnewtest4.py / simnewtest5.py等**  
   不同场景下的仿真主脚本，包括道路违停、路况模拟、拥堵分析等。支持感知车辆、普通车辆、自动数据采集、红绿灯控制、交通流量统计、拥堵检测等，并自动保存图片与元数据。  
   这些脚本通过参数调整可实现如下功能：
   - 违停车辆生成
